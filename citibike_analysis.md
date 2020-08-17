@@ -9,7 +9,7 @@ In the following Tableau worksheets (Link to Tableau Story below), important dat
 - Bike Utilization and Analyzing Wear
 - NYC Citi Bike General Breakdown
 
-Access Dashboard: [link to dashboard](https://public.tableau.com/profile/elena2311#!/vizhome/Bikeshare_analysis/NYCCitiBike?publish=yes)
+What NYC Citi Bike tells us about bikesharing in Des Moines: [link to dashboard](https://public.tableau.com/profile/elena2311#!/vizhome/Bikeshare_analysis/NYCCitiBike?publish=yes)
 
 ## Where are the bikes
 Bikes rides usually begin and end in tourist locations. Additionally, bike sharing is prominent in hubs, places where professionals work and where jobs are located(3). Bike sharing offers commuters an easy and economic way to get to work. It also presents locals with the opportunity to reduce their carbon footprint, increase cardio activity, while simulatenously allowing them to appreciate their community in new ways!
